@@ -1,0 +1,15 @@
+.chartCon {
+	width: 100%;
+	height: 100%;
+	padding-top: 2%;
+}
+.chartTwoCon {
+	width: 100%;
+	height: 47%;
+	background: url('./Image/chartArea.png');
+	background-size: 100% 100%;
+}
+.chartTitle {
+	color: white;
+	text-align: center;
+}

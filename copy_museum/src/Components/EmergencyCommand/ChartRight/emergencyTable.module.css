@@ -1,0 +1,18 @@
+.emergencyDown {
+	width: 100%;
+	height: 50%;
+}
+.emergencyTitle {
+	color: white;
+}
+.tableTitle {
+	color: #0066FF;
+}
+.tableBody {
+	color: #00FFFF;
+}
+.emergencyTable {
+	height: 100%;
+	width: 100%;
+	overflow: auto;
+}

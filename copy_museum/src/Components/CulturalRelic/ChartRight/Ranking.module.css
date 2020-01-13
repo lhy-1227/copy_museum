@@ -1,0 +1,17 @@
+.rankTable {
+	width: 100%;
+	height: 90%;
+	overflow: auto;
+	color: #00CCFF;
+	text-align: center;
+	font-size: 2%;
+	
+}
+.tankTh {
+	border-right: 1px solid rgba(0, 110, 227, 0.3);
+	border-bottom: 1px solid rgba(0, 110, 227, 0.3);
+}
+.tableTitle {
+	background-color: rgba(0,51,255, 0.3);
+	
+}

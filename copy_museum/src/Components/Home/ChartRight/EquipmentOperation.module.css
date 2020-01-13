@@ -1,0 +1,19 @@
+.equipmentBottom {
+	color: #0066FF;
+	padding-left: 10%;
+}
+.equipmentRunning {
+	margin-left: 8%;
+	text-align: center;
+}
+.enTop {
+	display: flex;
+	flex-wrap: wrap;
+}
+.btn {
+	border: 1px solid #0066FF;
+	width: 45%;
+	margin-left: 4%;
+	color: white;
+	font-size: 12px;
+}

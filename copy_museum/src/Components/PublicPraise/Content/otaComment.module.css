@@ -1,0 +1,9 @@
+.otaTotal {
+	width: 90%;
+	display: flex;
+	margin: auto;
+	padding-top: 2%;
+	color: #0066FF;
+	background-color: rgba(0,102,255,0.3);
+	text-align: center;
+}

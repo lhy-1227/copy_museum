@@ -1,0 +1,37 @@
+.rankTable {
+	width: 100%;
+	height: 90%;
+	overflow: auto;
+	color: #00CCFF;
+	text-align: center;
+	font-size: 2%;
+	margin-left: 2%;
+}
+.tankTh {
+	border-right: 1px solid rgba(0, 110, 227, 0.3);
+	border-bottom: 1px solid rgba(0, 110, 227, 0.3);
+	height: 5rem;
+}
+.tableTitle {
+	background-color: rgba(0,51,255, 0.3);
+}
+.rankSearch :global(svg) {
+    fill: rgb(0, 83, 229);
+    width: 1.2em;
+    height: 1.2rem;
+}
+.rankSearch :global(.ant-input) {
+    border: 1px solid rgb(0, 83, 229);
+    background: rgba(0, 83, 229, 0.4);
+    color:  rgb(255, 255, 255);
+	height: 1rem;
+}
+.rankSearch {
+	width: 20%;
+	height: 2rem;
+	margin-left: 2%;
+	color: white;
+}
+.recieveModalStyle {
+	background: red;
+}

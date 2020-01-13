@@ -1,0 +1,11 @@
+.enTop {
+	display: flex;
+	justify-content: space-around;
+}
+.btn {
+	border: 1px solid #0066FF;
+	width: 20%;
+	height: 2rem;
+	color: white;
+	font-size: 10px;
+}
